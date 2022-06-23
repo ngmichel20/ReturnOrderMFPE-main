@@ -1,0 +1,10 @@
+
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(²ñ‚Âþÿÿÿÿ
+]	java:S125("<This block of commented-out lines of code should be removed.(•õÍÙýÿÿÿÿ8”ÂÓÜ˜0
+
+java:S1128"rRemove this unused import 'com.cognizant.ngmichel.componentprocessingmicroservice.model.PackagingDeliverySummary'.(ê˜Ž×8µŒöÜ˜0
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68µŒöÜ˜0
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ8µŒöÜ˜0

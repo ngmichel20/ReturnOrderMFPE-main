@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReturnOrderMFPE-main.iml" filepath="$PROJECT_DIR$/.idea/ReturnOrderMFPE-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-microservice/authorization-microservice.iml" filepath="$PROJECT_DIR$/authorization-microservice/authorization-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component-processing-microservice/component-processing-microservice.iml" filepath="$PROJECT_DIR$/component-processing-microservice/component-processing-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacakaginganddelivery-microservice/pacakaginganddelivery-microservice.iml" filepath="$PROJECT_DIR$/pacakaginganddelivery-microservice/pacakaginganddelivery-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/return-order-portal/return-order-portal.iml" filepath="$PROJECT_DIR$/return-order-portal/return-order-portal.iml" />
+    </modules>
+  </component>
+</project>

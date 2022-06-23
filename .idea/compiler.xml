@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authorization-microservice" />
+        <module name="return-order-portal" />
+        <module name="pacakaginganddelivery-microservice" />
+        <module name="eureka" />
+        <module name="component-processing-microservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authorization-microservice" target="1.8" />
+      <module name="component-processing-microservice" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="pacakaginganddelivery-microservice" target="1.8" />
+      <module name="return-order-portal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="authorization-microservice" options="-parameters" />
+      <module name="component-processing-microservice" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="pacakaginganddelivery-microservice" options="-parameters" />
+      <module name="return-order-portal" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ó†æúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖäËÚ
+7
+java:S1116"Remove this empty statement.(¤‘Â€øÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(„Ï›¢üÿÿÿÿ8ÕæçŞ˜0
+1
+java:S1116"Remove this empty statement.(˜‘\
+]	java:S125"<This block of commented-out lines of code should be removed.(„Ï›¢üÿÿÿÿ8—ªóŞ˜0
